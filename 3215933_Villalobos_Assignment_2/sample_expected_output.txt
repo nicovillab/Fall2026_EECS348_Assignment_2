@@ -1,0 +1,10 @@
+There are 6 emails to read.
+Next email:
+Sender: Boss
+Subject: Never Mind
+Date: 01-03-2025
+Next email:
+Sender: Boss
+Subject: Important
+Date: 12-20-2024
+There are 4 emails to read.
